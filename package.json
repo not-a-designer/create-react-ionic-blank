@@ -1,6 +1,6 @@
 {
   "name": "create-react-ionic-blank",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Creates a blank Ionic React app",
   "main": "index.js",
   "bin": {
