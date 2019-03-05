@@ -1,6 +1,6 @@
 {
   "name": "create-react-ionic-blank",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Creates a blank Ionic React app",
   "main": "index.js",
   "bin": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/not-a-designer/create-react-ionic-blank.git"
   },
   "keywords": [
     "react",
