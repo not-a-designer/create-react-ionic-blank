@@ -1,5 +1,5 @@
 module.exports = {
-	'App.tsx': require('./App.tsx'),
-	'index.tsx': require('./index.tsx'),
-	'Home.tsx': require('./Home.tsx')
+	'App.tsx': require('./App.js'),
+	'index.tsx': require('./index.js'),
+	'Home.tsx': require('./Home.js')
 }

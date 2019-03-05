@@ -14,13 +14,11 @@ module.exports = `
 		render() {
 			return (
 				<Router>
-					<div id="App">
-						<IonApp>
-							<IonPage id="main">
-								<Route path="/" exact component={Home} />
-							</IonPage>
-						</IonApp>
-					</div>
+					<IonApp>
+						<IonPage id="main">
+							<Route path="/" exact component={Home} />
+						</IonPage>
+					</IonApp>
 				</Router>
 			);
 		}
