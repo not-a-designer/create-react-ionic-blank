@@ -1,0 +1,25 @@
+{
+  "name": "create-react-ionic-blank",
+  "version": "1.0.0",
+  "description": "Creates a blank Ionic React app",
+  "main": "index.js",
+  "bin": {
+    "create-react-ionic-blank": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "ionic",
+    "blank",
+    "template",
+    "starter"
+  ],
+  "author": "Joel Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "shelljs": "^0.8.3"
+  }
+}
